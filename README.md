@@ -1,2 +1,16 @@
-# job-market-analytics-dashboard
-Labor market intelligence dashboard analyzing 100K+ job postings to identify hiring patterns, salary distributions, and emerging skills.
+# Job Market Analytics Dashboard
+
+## Overview
+A labor market analytics platform for analyzing hiring trends, salary distributions, and in-demand technical skills using large-scale employment datasets.
+
+## Tech Stack
+- Python
+- Pandas
+- NumPy
+- MySQL
+- Microsoft Azure
+- Power BI
+- Git & GitHub
+
+## Status
+Project initialization and planning phase.
